@@ -1,11 +1,6 @@
-# serve-smart-hackathon
-Object Detection System for Military Objects Classification - IIT BHU Serve Smart Hackathon"
-
-# Serve Smart Hackathon
-
 ## 🎯 Project Overview
 
-YOLOv8-based object detection system for identifying 12 classes of military objects from 1,396 test images. Developed for **IIT BHU Serve Smart Hackathon Round 2**.
+Object Detection System for identifying 12 classes of military objects from 1,396 test images. Developed for **IIT BHU Serve Smart Hackathon Round 2**.
 
 ## 📊 Results
 
